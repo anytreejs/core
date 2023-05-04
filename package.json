@@ -1,0 +1,29 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "tree structures for Visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anytreejs/core.git"
+  },
+  "keywords": [
+    "tree",
+    "graph",
+    "any-tree",
+    "structure",
+    "js",
+    "node",
+    "leaf",
+    "root"
+  ],
+  "author": "Sajjad Seifi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anytreejs/core/issues"
+  },
+  "homepage": "https://github.com/anytreejs/core#readme"
+}
